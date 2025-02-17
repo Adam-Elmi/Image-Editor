@@ -1,10 +1,10 @@
 import './App.css';
-
+import { CommandlineIcon } from './icons/SvgIcon';
 function App() {
 
 
   return (
-    <h1>Adam</h1>
+    <CommandlineIcon bgColor='#cdf' color='red'/>
   );
 }
 
